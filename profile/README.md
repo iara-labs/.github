@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../assets/logo/logo.png" alt="SabIA" width="280" />
+  <img src="https://github.com/sabia-labs/.github/blob/main/assets/logo/logo.png?raw=true" alt="SabIA" width="280" />
 </p>
 
 ## SabIA — Alternativa brasileira ao AWS Rekognition e Textract
