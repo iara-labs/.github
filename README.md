@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/logo/logo.png" alt="SabIA Labs" width="280" />
+  <img src="./assets/logo/logo.png" alt="Iara Labs" width="280" />
 </p>
 
-## SabIA Labs
+## Iara Labs
 
-SabIA Labs é um laboratório brasileiro focado em plataformas de visão computacional compatíveis com o SDK da AWS (Rekognition e Textract). Nosso objetivo é oferecer uma alternativa com baixa latência, residência de dados no Brasil e uma experiência de desenvolvedor familiar.
+Iara Labs é um laboratório brasileiro focado em plataformas de visão computacional compatíveis com o SDK da AWS (Rekognition e Textract). Nosso objetivo é oferecer uma alternativa com baixa latência, residência de dados no Brasil e uma experiência de desenvolvedor familiar.
 
 ### O que oferecemos
 
@@ -40,13 +40,13 @@ Para contribuições de código em repositórios de produto, consulte os READMEs
 
 ### Links
 
-- Website: `https://sabia-labs.github.com`
+- Website: `https://iara-labs.github.com`
 - Identidade visual: pasta `assets/`
 - Repositórios públicos: acesse nosso perfil no GitHub
 
 ### Contato
 
-- Email: `sabia.labs@gmail.com`
+- Email: `iara.labs@gmail.com`
 
 —
-SabIA Labs • Visão computacional no Brasil
+Iara Labs • Visão computacional no Brasil

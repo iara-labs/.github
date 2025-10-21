@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="../assets/logo/logo.webp" alt="SabIA" width="280" />
+  <img src="../assets/logo/logo.webp" alt="Iara" width="280" />
 </p>
 
-## SabIA — Alternativa brasileira ao AWS Rekognition e Textract
+## Iara — Alternativa brasileira ao AWS Rekognition e Textract
 
 Plataforma brasileira de visão computacional compatível com o SDK da AWS (Rekognition e Textract). Mantenha seu código, troque apenas o endpoint. Infra no Brasil (sa-east-1 equivalente), baixa latência e suporte em português.
 
-### Por que SabIA?
+### Por que Iara?
 
 - **Compatível com o SDK da AWS**: mesma DX, entradas/saídas familiares
 - **Infra no Brasil**: latência menor e residência de dados local
@@ -46,13 +46,13 @@ Plataforma brasileira de visão computacional compatível com o SDK da AWS (Reko
 
 ### Links
 
-- Website: `https://sabia-labs.github.com`
+- Website: `https://iara-labs.github.com`
 - Documentação: em breve no site
 - Identidade visual/brand: disponível no site e nos repositórios públicos
 
 ### Contato
 
-- Email: sabia.labs@gmail.com
+- Email: iara.labs@gmail.com
 
 —
-SabIA • Visão computacional no Brasil, com a mesma experiência do SDK da AWS
+Iara • Visão computacional no Brasil, com a mesma experiência do SDK da AWS
